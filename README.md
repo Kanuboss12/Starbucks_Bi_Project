@@ -88,4 +88,4 @@ Regional Analysis: Governments and tourism bodies can analyze competitiveness by
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like.
-Example: https://github.com/Kanuboss12/Starbucks_Bi_Project/blob/main/Starbucks_Dashboard.png
+Example: ![Dashboard Preview](https://github.com/Kanuboss12/Starbucks_Bi_Project/blob/main/Starbucks_Dashboard.png)
