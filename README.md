@@ -86,6 +86,5 @@ Strategic Expansion: Resort developers can spot underdeveloped regions with high
 Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty.
 Regional Analysis: Governments and tourism bodies can analyze competitiveness by region.
 
-### 6.	Screenshots / Demos
-Show what the dashboard looks like.
-Example: ![Dashboard Preview](https://github.com/Kanuboss12/Starbucks_Bi_Project/blob/main/Starbucks_Dashboard.png)
+### 6.	Screenshots
+![Dashboard Preview](https://github.com/Kanuboss12/Starbucks_Bi_Project/blob/main/Starbucks_Dashboard.png)
