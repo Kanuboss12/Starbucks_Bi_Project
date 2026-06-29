@@ -1,16 +1,9 @@
-# Starbucks Dashboard
+# ☕ Starbucks Beverage Analytics Dashboard
 
-### 1.	Project Title / Headline
-A concise, descriptive name for the dashboard.
-Example: 
-❄️ Snowy Analytics: Global Ski Resort Insights Dashboard
-A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
+A dynamic and interactive Power BI dashboard designed to analyze Starbucks beverage offerings by exploring nutritional metrics, caffeine content, calorie distribution, and beverage category performance.
 
-### 2.	Short Description / Purpose
-1–2 sentences explaining what the dashboard does and why it exists.
-
-Example: 
-The Snowy Analytics Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare over 499 ski resorts across 38 countries and 5 continents. The dashboard focuses on highlighting major ski resort features like summer skiing availability, night skiing, lift types, and slope difficulty. This tool is intended for use by tourism analysts, winter sports enthusiasts, travel companies, and data-driven strategists who seek to understand trends and characteristics of ski resorts globally.
+### 2.	Objective
+The Starbucks Beverage Analytics Dashboard is a visually engaging Power BI report built to explore and analyze Starbucks beverage data across various drink categories. The dashboard helps users understand nutritional trends, compare beverage types, and identify drinks based on calories, sugar, and caffeine content.
 
 ### 3.	Tech Stack
 List the key technologies used to build the dashboard.
@@ -19,17 +12,22 @@ Example:
 The dashboard was built using the following tools and technologies:<br>
 •	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
 •	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
-•	🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
+•	🧠 DAX (Data Analysis Expressions) – Used for calculated measures.<br>
 •	📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.<br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
 ### 4.	Data Source
-More info on where the data comes from and how it’s structured
-Example:
-Source: Ski-resort-stats.com & NASA Earth Observations. 
+Starbucks Beverage Nutrition Dataset (public dataset/Kaggle).
 
-Data on ~500 ski resorts around the world, including details on their location, prices, slopes, lifts, and seasons, as well as a complementary table with the snow cover around the world for each month of 2022.
+The dataset contains detailed information about Starbucks beverages, including:
 
+* Beverage category <br>
+* Beverage preparation type <br>
+* Calories <br>
+* Sugar content <br>
+* Caffeine levels <br>
+* Protein content <br>
+* Nutritional attributes
 
 ### 5.	Features / Highlights
 The best dashboard explanation format. 
@@ -37,16 +35,17 @@ The best dashboard explanation format.
 •	Goal of the dashboard
 •	Walk through of key visuals (briefly!)
 •	Business impact & Insights
-
-Example:
 •	Business Problem
-The global ski tourism industry generates billions in revenue, yet travelers, tour operators, and analysts often lack an intuitive way to compare resorts across countries. 
+Consumers today are increasingly health-conscious and seek transparency regarding the nutritional content of their beverages. However, understanding nutritional differences across Starbucks drinks can be challenging when relying solely on menu information. 
 
-Key questions such as:
-Which regions offer the most family-friendly or expert-level skiing?
-Where is summer skiing available?
-What countries have the most well-equipped resorts?
-… are difficult to answer quickly with raw data.
+Questions such as:
+
+Which beverages contain the highest caffeine?
+Which categories have the highest calorie content?
+How much sugar is present across drink categories?
+Which drinks offer lower-calorie alternatives?
+
+are difficult to answer quickly using raw nutritional data.
 
 •	Goal of the Dashboard
 To deliver an interactive visual tool that:
