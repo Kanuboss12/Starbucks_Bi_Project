@@ -76,26 +76,21 @@ Ranks beverage categories based on average caffeine content.
 -	Top 5 Highest Caffeine Beverages:
 Showcases the beverages with the highest caffeine content, enabling users to quickly identify energy-rich drink options.
 
-#####	Business Impact & Insights
+#####	Business Impact
 
-✅ Health-Conscious Decision Making
-
+✅ Health-Conscious Decision Making<br>
 Customers can compare drinks and select healthier options based on calories, sugar, and caffeine levels.
 
-✅ Product Portfolio Analysis
-
+✅ Product Portfolio Analysis<br>
 Product teams can identify beverage categories with high nutritional values and evaluate opportunities for introducing healthier alternatives.
 
-✅ Marketing Optimization
-
+✅ Marketing Optimization<br>
 Starbucks can promote low-calorie or high-protein beverages to target health-focused consumer segments.
 
-✅ Consumer Education
-
+✅ Consumer Education<br>
 The dashboard enhances nutritional transparency, helping customers make informed purchasing decisions.
 
-✅ Data-Driven Menu Strategy
-
+✅ Data-Driven Menu Strategy<br>
 Business stakeholders can leverage insights to optimize menu offerings and align products with changing consumer preferences.
 
 ##### 🔍 Key Insights
