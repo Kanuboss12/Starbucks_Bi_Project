@@ -29,61 +29,82 @@ The dataset contains detailed information about Starbucks beverages, including:
 * Protein content <br>
 * Nutritional attributes
 
-### 5.	Features / Highlights
-The best dashboard explanation format. 
-•	Business problem
-•	Goal of the dashboard
-•	Walk through of key visuals (briefly!)
-•	Business impact & Insights
-•	Business Problem
+### 5.	Highlights
+##### Business Problem
+
 Consumers today are increasingly health-conscious and seek transparency regarding the nutritional content of their beverages. However, understanding nutritional differences across Starbucks drinks can be challenging when relying solely on menu information. 
 
-Questions such as:
+##### Questions such as:
 
-Which beverages contain the highest caffeine?
-Which categories have the highest calorie content?
-How much sugar is present across drink categories?
-Which drinks offer lower-calorie alternatives?
+* Which beverages contain the highest caffeine?
+* Which categories have the highest calorie content?
+* How much sugar is present across drink categories?
+* Which drinks offer lower-calorie alternatives?
 
 are difficult to answer quickly using raw nutritional data.
 
-•	Goal of the Dashboard
-To deliver an interactive visual tool that:
-Enables users to explore ski resorts globally.
-Supports decisions such as vacation planning, regional marketing, or infrastructure investment.
-Uncovers trends in terrain, accessibility, and tourism capacity by region and resort.
+#####	Goal of the Dashboard
+To deliver an interactive analytical solution that:
 
-•	Walkthrough of Key Visuals
--	Key KPIs (Top Left)
-Total number of resorts: 499
-Resorts with summer skiing: 29
-Resorts with night skiing: 204
-Child-friendly resorts: 495
-Countries covered: 38
-Continents represented: 5
--	Continent Filter Panel
-An interactive slicer lets users filter all visuals by selected continents, such as Europe or Asia.
--	Top Countries with Most Resorts (Bar Chart)
-Bar chart ranks countries like Austria, France, and the U.S. by number of ski resorts.
--	Slopes by Resort (Line Chart)
-Displays the distribution of slope types (beginner, intermediate, expert, and total). Helps identify which resorts favor beginners vs. experts.
--	 Resorts by Skill Level (Dual Line Charts)
-Two line visuals side by side: one for resorts that cater to beginners, another for experts—allowing skill-level segmentation.
--	Elevation Stats (Grouped Bar Chart)
-Compare the highest and lowest elevation points of resorts to understand terrain steepness and potential snow quality.
--	Lift Types by Resort (Stacked Bar Chart)
-Stacked bar chart showing:
-Gondola lifts
-Chair lifts
-Surface lifts
-Total lifts
-This helps users gauge resort infrastructure and capacity.
+* Enables users to explore Starbucks beverages based on nutritional attributes.
+* Supports healthier beverage choices through data-driven insights.
+* Identifies high-calorie and high-caffeine beverages.
+* Helps stakeholders understand product distribution and nutritional trends.
 
-•	Business Impact & Insights
-Marketing Optimization: Travel agencies can use this dashboard to identify key selling points for different demographics (e.g., child-friendly resorts or expert terrain).
-Strategic Expansion: Resort developers can spot underdeveloped regions with high potential.
-Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty.
-Regional Analysis: Governments and tourism bodies can analyze competitiveness by region.
+#####	Walkthrough of Key Visuals
+📌 Key KPI's :
+
+Total Beverages: 33 <br>
+Average Sugar: 32.90 g  <br>
+Average Calories: 193.78 kcal  <br>
+Average Caffeine: 82 mg <br>
+
+🎛️ Interactive Filters:
+
+Protein Range Slider enables users to filter beverages based on protein content. Beverage Preparation Slicer allows analysis by preparation type (e.g., Tall, Grande, Venti, Whole Milk, Nonfat Milk). These filters dynamically update all visuals across the report.
+
+These KPIs provide an instant overview of Starbucks' beverage portfolio.
+
+-  Average Calories by Beverage Category (Line Chart):
+Displays average calorie levels across beverage categories, helping users compare nutritional density among drinks.
+-	 Starbucks Global Presence (Column Chart):
+HIghlights popular Starbucks beverages and their comparative nutritional values, showcasing product variety across the menu.
+-	 Beverage Category Distribution (Donut Chart):
+Illustrates the proportional distribution of beverages among different categories, providing a quick understanding of Starbucks' product mix.
+-	 Average Caffeine by Category (Horizontal Bar Chart):
+Ranks beverage categories based on average caffeine content.
+-	Top 5 Highest Caffeine Beverages:
+Showcases the beverages with the highest caffeine content, enabling users to quickly identify energy-rich drink options.
+
+#####	Business Impact & Insights
+
+✅ Health-Conscious Decision Making
+
+Customers can compare drinks and select healthier options based on calories, sugar, and caffeine levels.
+
+✅ Product Portfolio Analysis
+
+Product teams can identify beverage categories with high nutritional values and evaluate opportunities for introducing healthier alternatives.
+
+✅ Marketing Optimization
+
+Starbucks can promote low-calorie or high-protein beverages to target health-focused consumer segments.
+
+✅ Consumer Education
+
+The dashboard enhances nutritional transparency, helping customers make informed purchasing decisions.
+
+✅ Data-Driven Menu Strategy
+
+Business stakeholders can leverage insights to optimize menu offerings and align products with changing consumer preferences.
+
+##### 🔍 Key Insights
+
+- Brewed Coffee has the highest average caffeine content.
+- rappuccino and Smoothie categories tend to have higher calorie levels.
+- Beverage categories exhibit significant variation in sugar and calorie content.
+- Customers seeking lower-calorie options may prefer traditional coffee beverages over blended drinks.
+- Nutritional characteristics vary considerably across beverage preparation types, emphasizing the importance of customization.
 
 ### 6.	Screenshots
 ![Dashboard Preview](https://github.com/Kanuboss12/Starbucks_Bi_Project/blob/main/Starbucks_Dashboard.png)
