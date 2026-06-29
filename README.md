@@ -78,19 +78,19 @@ Showcases the beverages with the highest caffeine content, enabling users to qui
 
 #####	Business Impact
 
-✅ Health-Conscious Decision Making<br>
+- Health-Conscious Decision Making<br>
 Customers can compare drinks and select healthier options based on calories, sugar, and caffeine levels.
 
-✅ Product Portfolio Analysis<br>
+- Product Portfolio Analysis<br>
 Product teams can identify beverage categories with high nutritional values and evaluate opportunities for introducing healthier alternatives.
 
-✅ Marketing Optimization<br>
+- Marketing Optimization<br>
 Starbucks can promote low-calorie or high-protein beverages to target health-focused consumer segments.
 
-✅ Consumer Education<br>
+- Consumer Education<br>
 The dashboard enhances nutritional transparency, helping customers make informed purchasing decisions.
 
-✅ Data-Driven Menu Strategy<br>
+- Data-Driven Menu Strategy<br>
 Business stakeholders can leverage insights to optimize menu offerings and align products with changing consumer preferences.
 
 ##### 🔍 Key Insights
